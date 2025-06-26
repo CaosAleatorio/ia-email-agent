@@ -1,0 +1,7 @@
+1 - python -m venv venv
+
+2 - pip install together python-dotenv
+
+3 - .\venv\Scripts\activate
+
+4 - python agente.py
